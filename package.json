@@ -1,0 +1,12 @@
+{
+  "name": "add-mass-gsuite-to-codebuddy-9router",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.43.1"
+  }
+}
